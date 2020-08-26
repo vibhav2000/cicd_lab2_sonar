@@ -7,7 +7,7 @@ public class test1 {
 			}
 
 	public static void main(String[] args) {
-		int n2=20;
+		int n1=20;
 		System.out.println("Hello Sonar");
 		test1 ob = new test1();
 		ob.f1(20);

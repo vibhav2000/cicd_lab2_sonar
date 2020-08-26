@@ -13,7 +13,7 @@ public class test1 {
 		ob.f1(20);
 		if(n2==10)
 		{
-			System.out.println("This is true part");
+			System.out.println("Update: This is true part");
 			
 		}
 		else 

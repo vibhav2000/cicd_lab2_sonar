@@ -12,10 +12,13 @@ public class test1 {
 		test1 ob = new test1();
 		ob.f1(20);
 		if(n2==10)
-	
 		{
-			System.out.println("This is false part");
+			System.out.println("This is true part");
 			
+		}
+		else 
+		{
+			System.out.println("this is false part");
 		}
 	}
 

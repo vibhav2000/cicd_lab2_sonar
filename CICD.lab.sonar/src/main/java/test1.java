@@ -11,7 +11,7 @@ public class test1 {
 		System.out.println("Hello Sonar");
 		test1 ob = new test1();
 		ob.f1(20);
-		if(n2==10)
+		if(n1==10)
 		{
 			System.out.println("Update: This is true part");
 			
